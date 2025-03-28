@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "solid",
+    "diffEditor.wordWrap": "off",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "php.validate.executablePath": "C:/php/php.exe",
+    "git.autofetch": true
+}
